@@ -1,3 +1,12 @@
 [submodule "ros/catkin_ws/src/controller"]
 	path = ros/catkin_ws/src/controller
 	url = https://github.com/VELA-MicroG-2021/controller.git
+[submodule "ros/catkin_ws/src/web_gui"]
+	path = ros/catkin_ws/src/web_gui
+	url = https://github.com/VELA-MicroG-2021/web_gui.git
+[submodule "ros/catkin_ws/src/motor_bridge"]
+	path = ros/catkin_ws/src/motor_bridge
+	url = https://github.com/VELA-MicroG-2021/motor_bridge.git
+[submodule "ros/catkin_ws/src/vela"]
+	path = ros/catkin_ws/src/vela
+	url = https://github.com/VELA-MicroG-2021/vela.git
