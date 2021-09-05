@@ -1,0 +1,3 @@
+[submodule "ros/catkin_ws/src/controller"]
+	path = ros/catkin_ws/src/controller
+	url = https://github.com/VELA-MicroG-2021/controller.git
